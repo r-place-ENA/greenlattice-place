@@ -1,4 +1,4 @@
-# Green Lattice Overlay for r/place
+# ENA Overlay for r/place
 
 
 
@@ -14,7 +14,7 @@ Install one of the following extensions for your browser.
 
 Install the Userscript:
 
-[lattice.user.js](https://raw.githubusercontent.com/jcb1032/greenlattice-place/main/lattice.user.js)
+[lattice.user.js](https://raw.githubusercontent.com/r-place-ENA/greenlattice-place/ena-fork/lattice_overlay.png)
 
 #
 
@@ -26,7 +26,7 @@ Sorry, the script is unavailable for mobile users.
 
 The overlay will be automatically updated by our team, and you shouldn't have to change anything.
 
-However, sometimes your browser will cache the overlay image for faster loading times. You can go to [this link](https://raw.githubusercontent.com/jcb1032/greenlattice-place/main/lattice_overlay.png) and click the refresh button (F5) while holding shift to re-cache the image.
+However, sometimes your browser will cache the overlay image for faster loading times. You can go to [this link](https://raw.githubusercontent.com/r-place-ENA/greenlattice-place/ena-fork/lattice_overlay.png) and click the refresh button (F5) while holding shift to re-cache the image.
 
 ### Contributing
 
@@ -47,6 +47,8 @@ The r/osuplace team for the original code: _oralekin_ & _exdeejay_
 
 The r/greenlattice team for our modifications: [_artillect#8709_](https://github.com/artillect), _jcb#1032_, & [_jumpinglizard#4404_](https://github.com/BlueRedBlueYellow)
 
+The r/ena team for further modifications: [PizzaRalsei#9465](https://github.com/PizzaRalsei) & [AZMPlay](https://github.com/AZMCode)
+
 ### Links
 
 [r/place](https://www.reddit.com/r/place)
@@ -54,3 +56,7 @@ The r/greenlattice team for our modifications: [_artillect#8709_](https://github
 [r/greenlattice](https://www.reddit.com/r/greenlattice)
 
 [GL Discord](https://discord.gg/D38szSvvX3)
+
+[r/ena](https://www.reddit.com/r/ena)
+
+[ENA Discord](https://discord.com/invite/Tg678DNp)
