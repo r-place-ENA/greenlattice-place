@@ -14,7 +14,7 @@ Install one of the following extensions for your browser.
 
 Install the Userscript:
 
-[lattice.user.js](https://raw.githubusercontent.com/pizzaralsei/greenlattice-place/main/lattice.user.js)
+[lattice.user.js](https://raw.githubusercontent.com/r-place-ENA/greenlattice-place/main/lattice.user.js)
 
 #
 
@@ -26,7 +26,7 @@ Sorry, the script is unavailable for mobile users.
 
 The overlay will be automatically updated by our team, and you shouldn't have to change anything.
 
-However, sometimes your browser will cache the overlay image for faster loading times. You can go to [this link](https://raw.githubusercontent.com/pizzaralsei/greenlattice-place/main/lattice_overlay.png) and click the refresh button (F5) while holding shift to re-cache the image.
+However, sometimes your browser will cache the overlay image for faster loading times. You can go to [this link](https://raw.githubusercontent.com/r-place-ENA/greenlattice-place/main/lattice_overlay.png) and click the refresh button (F5) while holding shift to re-cache the image.
 
 ### Contributing
 
