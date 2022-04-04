@@ -1,4 +1,4 @@
-# Green Lattice Overlay for r/place
+# Green Lattice Overlay and ENA for r/place
 
 
 
@@ -14,7 +14,7 @@ Install one of the following extensions for your browser.
 
 Install the Userscript:
 
-[lattice.user.js](https://raw.githubusercontent.com/jcb1032/greenlattice-place/main/lattice.user.js)
+[lattice.user.js](https://raw.githubusercontent.com/pizzaralsei/greenlattice-place/main/lattice.user.js)
 
 #
 
@@ -26,11 +26,11 @@ Sorry, the script is unavailable for mobile users.
 
 The overlay will be automatically updated by our team, and you shouldn't have to change anything.
 
-However, sometimes your browser will cache the overlay image for faster loading times. You can go to [this link](https://raw.githubusercontent.com/jcb1032/greenlattice-place/main/lattice_overlay.png) and click the refresh button (F5) while holding shift to re-cache the image.
+However, sometimes your browser will cache the overlay image for faster loading times. You can go to [this link](https://raw.githubusercontent.com/pizzaralsei/greenlattice-place/main/lattice_overlay.png) and click the refresh button (F5) while holding shift to re-cache the image.
 
 ### Contributing
 
-1. Open `lattice_full.png` in photoshop, make changes, and save over the original, with the same name
+1. Open `lattice_full.png` in your image editor, make changes, and save over the original, with the same name
 2. Run the `dithering.py` script* in the same folder as the saved `lattice_full.png` image
 3. Upload `lattice_full.png` and the newly generated `lattice_overlay.png` to github
 
@@ -47,10 +47,16 @@ The r/osuplace team for the original code: _oralekin_ & _exdeejay_
 
 The r/greenlattice team for our modifications: [_artillect#8709_](https://github.com/artillect), _jcb#1032_, & [_jumpinglizard#4404_](https://github.com/BlueRedBlueYellow)
 
+The r/enaplace team for ENA modifications: _Gezin#5078_, [_pizzaralsei#9465_](https://github.com/pizzaralsei), & [_AZMPlay#9283_](https://github.com/AZMCode)
+
 ### Links
 
 [r/place](https://www.reddit.com/r/place)
 
 [r/greenlattice](https://www.reddit.com/r/greenlattice)
 
+[r/enaplace](https://www.reddit.com/r/enaplace)
+
 [GL Discord](https://discord.gg/D38szSvvX3)
+
+[ENA Discord](https://discord.gg/Tg678DNp)
