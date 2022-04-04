@@ -7,8 +7,8 @@
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
-// @updateURL    https://github.com/pizzaralsei/greenlattice-place/raw/main/lattice.user.js
-// @downloadURL  https://github.com/pizzaralsei/greenlattice-place/raw/main/lattice.user.js
+// @updateURL    https://github.com/r-place-ENA/greenlattice-place/raw/main/lattice.user.js
+// @downloadURL  https://github.com/r-place-ENA/greenlattice-place/raw/main/lattice.user.js
 // ==/UserScript==
 
 if (window.top !== window.self) {
@@ -21,7 +21,7 @@ if (window.top !== window.self) {
         .shadowRoot.children[0].appendChild(
           (function () {
             const i = document.createElement("img");
-            i.src = "https://raw.githubusercontent.com/pizzaralsei/greenlattice-place/main/lattice_overlay.png";
+            i.src = "https://raw.githubusercontent.com/r-place-ENA/greenlattice-place/main/lattice_overlay.png";
             i.style = "position:absolute;left:0;top:0;image-rendering:pixelated;width:2000px;height:2000px;";
             i.setAttribute("data-display", "1");
 
